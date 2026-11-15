@@ -1,4 +1,4 @@
-import '../StudentProfileCard.css'
+import './StudentProfileCard.css'
 function StudentProfileCard({ name, studentId, major, year, gpa }) {
   return (
     <div className="student-card">
